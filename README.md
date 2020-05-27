@@ -13,7 +13,6 @@ This is part of [Steven Black's hosts](https://github.com/StevenBlack/hosts)
 | CoinBlockerList    | Prevent cryptomining in the browser.                                          | GPLv3+      | [link](https://gitlab.com/ZeroDot1/CoinBlockerLists)
 | rlwpx.free.fr.hrsk | Dangerous/risk content. `58 001` entries.                                     | CC BY-NC 3.0| [link](http://rlwpx.free.fr/WPFF/hosts.htm)
 | rlwpx.free.fr.htrc | Tracking websites. `45 825` entries.                                          | CC BY-NC 3.0| [link](http://rlwpx.free.fr/WPFF/hosts.htm)
-| StreamingAds       | Streaming services ads sources.                                               | MIT         |
 | UncheckyAds 	 	 | Windows installers ads sources.                                               |             | [link](https://unchecky.com/)
 | WindowsSpyBlocker-EXTRA | Hosts extra rules. | MIT | [link](https://github.com/crazy-max/WindowsSpyBlocker)
 | WindowsSpyBlocker-SPY | Hosts spy rules. | MIT | [link](https://github.com/crazy-max/WindowsSpyBlocker)
